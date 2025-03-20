@@ -11,6 +11,8 @@ dotnet add package AWSSDK.S3
 
 Документация и примеры для работы с AWS SDK для .NET доступны на [официальном сайте AWS](https://aws.amazon.com/ru/sdk-for-net/).
 
+Перед запуском измените файл appsettings.json на ваши 
+
 Для запуска вашего приложения используйте команду:
 
 ```shell
