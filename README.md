@@ -16,7 +16,3 @@ dotnet add package AWSSDK.S3
 ```shell
 dotnet run
 ```
-
----
-
-Такая версия README будет более точной и информативной для пользователей, работающих с .NET SDK для S3.
